@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/magnoliaAuthor/.resources/spa-lm/webresources/build/static/js/main.52e2d140.chunk.js",
+    "main.js.map": "/magnoliaAuthor/.resources/spa-lm/webresources/build/static/js/main.52e2d140.chunk.js.map",
+    "runtime-main.js": "/magnoliaAuthor/.resources/spa-lm/webresources/build/static/js/runtime-main.67cf9609.js",
+    "runtime-main.js.map": "/magnoliaAuthor/.resources/spa-lm/webresources/build/static/js/runtime-main.67cf9609.js.map",
+    "static/js/2.67d7eca8.chunk.js": "/magnoliaAuthor/.resources/spa-lm/webresources/build/static/js/2.67d7eca8.chunk.js",
+    "static/js/2.67d7eca8.chunk.js.map": "/magnoliaAuthor/.resources/spa-lm/webresources/build/static/js/2.67d7eca8.chunk.js.map",
+    "index.html": "/magnoliaAuthor/.resources/spa-lm/webresources/build/index.html",
+    "static/js/2.67d7eca8.chunk.js.LICENSE.txt": "/magnoliaAuthor/.resources/spa-lm/webresources/build/static/js/2.67d7eca8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67cf9609.js",
+    "static/js/2.67d7eca8.chunk.js",
+    "static/js/main.52e2d140.chunk.js"
+  ]
+}

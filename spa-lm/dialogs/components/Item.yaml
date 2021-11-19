@@ -1,0 +1,6 @@
+label: Item properties
+form:
+  properties:
+    item:
+      label: Item
+      $type: textField

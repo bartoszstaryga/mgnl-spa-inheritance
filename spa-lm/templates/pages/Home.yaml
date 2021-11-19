@@ -1,0 +1,18 @@
+title: SPA Home
+dialog: spa-lm:pages/Home
+templateScript: /spa-lm/webresources/build/index.html
+renderType: spa
+class: info.magnolia.rendering.spa.renderer.SpaRenderableDefinition
+areas:
+  header:
+    title: Header area
+    availableComponents:
+      text:
+        id: spa-lm:components/Text
+  main:
+    title: Main area
+    availableComponents:
+      text:
+        id: spa-lm:components/Text
+      list:
+        id: spa-lm:components/List

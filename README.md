@@ -2,6 +2,8 @@
 
 Currently (19 Nov 2021) Headless Magnolia (Delivery API) does not offer area inheritance.
 
+Blog covering this example: [Inheritance in Headless Magnolia](https://www.magnolia-cms.com/blog/inheritance-in-headless-magnolia.html)
+
 Here is a basic example of solving this limitation with code.
 
 ## Page header inheritance
